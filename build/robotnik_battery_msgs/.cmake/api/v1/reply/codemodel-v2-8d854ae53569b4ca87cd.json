@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-df9bc3c1375b9f77476a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "robotnik_battery_msgs__py",
+					"jsonFile" : "directory-robotnik_battery_msgs__py-e5607f1b71b0dd1c6080.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/admin/ros2_ws/build/robotnik_battery_msgs/robotnik_battery_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "robotnik_battery_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_robotnik_battery_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_robotnik_battery_msgs_egg-90c6fe11e3cc63ae7d1f.json",
+					"name" : "ament_cmake_python_build_robotnik_battery_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_robotnik_battery_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_robotnik_battery_msgs-83080decdd5205bdd37e.json",
+					"name" : "ament_cmake_python_copy_robotnik_battery_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs-8b8f0a3d26ae9cc9ea94.json",
+					"name" : "robotnik_battery_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__cpp-c3558429af7ce124b016.json",
+					"name" : "robotnik_battery_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "robotnik_battery_msgs__py::@92ea7ffa065bf40ed624",
+					"jsonFile" : "target-robotnik_battery_msgs__py-125b2f23eec1194eb133.json",
+					"name" : "robotnik_battery_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_generator_c-18bf95157f3021dbcdea.json",
+					"name" : "robotnik_battery_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_generator_py-c0d9f081e9b81b821803.json",
+					"name" : "robotnik_battery_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_c-c76bed779f8784db6639.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_c__pyext-fbb8f8866addab881831.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_cpp-ace95fbacd799cedf500.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_fastrtps_c-9cf4517f38ba53078279.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_fastrtps_c__pyext-a15cd0e0a8444615abe3.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_fastrtps_cpp-73196980239b199e29da.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_introspection_c-80181fcf18018288e26c.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_introspection_c__pyext-03e37612ac094b4c7422.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs__rosidl_typesupport_introspection_cpp-76b7e40d8ca0b2ef31d6.json",
+					"name" : "robotnik_battery_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_battery_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_battery_msgs_uninstall-31bca109e98ad88ecd34.json",
+					"name" : "robotnik_battery_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-377919ff1794fd6d6fa0.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/admin/ros2_ws/build/robotnik_battery_msgs",
+		"source" : "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

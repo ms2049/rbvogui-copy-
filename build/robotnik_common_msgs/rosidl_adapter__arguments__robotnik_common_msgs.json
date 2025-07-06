@@ -1,0 +1,11 @@
+{
+  "package_name": "robotnik_common_msgs",
+  "non_idl_tuples": [
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:msg/Response.msg",
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:srv/SetBool.srv",
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:srv/SetFloat32.srv",
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:srv/SetFloat64.srv",
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:srv/SetInt32.srv",
+    "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs:srv/SetString.srv"
+  ]
+}

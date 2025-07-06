@@ -1,0 +1,175 @@
+[0.349s] Invoking command in '/home/admin/ros2_ws/build/robotnik_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_perception_msgs -- -j20 -l20
+[0.405s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_generator_c[0m
+[0.413s] [  2%] Built target robotnik_perception_msgs__cpp
+[0.414s] [ 12%] Built target robotnik_perception_msgs__rosidl_generator_c
+[0.415s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.415s] [ 12%] Built target ament_cmake_python_copy_robotnik_perception_msgs
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_introspection_c[0m
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_cpp[0m
+[0.416s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_c[0m
+[0.416s] [ 23%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_c
+[0.416s] [ 33%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c
+[0.416s] [ 43%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_cpp
+[0.417s] [ 53%] Built target robotnik_perception_msgs__rosidl_typesupport_cpp
+[0.417s] [ 64%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[0.417s] [ 74%] Built target robotnik_perception_msgs__rosidl_typesupport_c
+[0.428s] [ 74%] Built target robotnik_perception_msgs
+[0.447s] [ 76%] Built target robotnik_perception_msgs__py
+[0.455s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_generator_py[0m
+[0.464s] [ 84%] Built target robotnik_perception_msgs__rosidl_generator_py
+[0.472s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_c__pyext[0m
+[0.472s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.473s] [35m[1mConsolidate compiler generated dependencies of target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.480s] [ 89%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[0.481s] [ 94%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.482s] [100%] Built target robotnik_perception_msgs__rosidl_typesupport_c__pyext
+[0.616s] running egg_info
+[0.616s] writing robotnik_perception_msgs.egg-info/PKG-INFO
+[0.616s] writing dependency_links to robotnik_perception_msgs.egg-info/dependency_links.txt
+[0.616s] writing top-level names to robotnik_perception_msgs.egg-info/top_level.txt
+[0.619s] reading manifest file 'robotnik_perception_msgs.egg-info/SOURCES.txt'
+[0.620s] writing manifest file 'robotnik_perception_msgs.egg-info/SOURCES.txt'
+[0.648s] [100%] Built target ament_cmake_python_build_robotnik_perception_msgs_egg
+[0.671s] Invoked command in '/home/admin/ros2_ws/build/robotnik_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_perception_msgs -- -j20 -l20
+[0.672s] Invoking command in '/home/admin/ros2_ws/build/robotnik_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_perception_msgs
+[0.683s] -- Install configuration: ""
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/ament_index/resource_index/rosidl_interfaces/robotnik_perception_msgs
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__struct.h
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__struct.h
+[0.683s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__functions.h
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__functions.c
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__type_support.h
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__functions.h
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__type_support.h
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__functions.c
+[0.684s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detection_array.h
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detection.h
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/library_path.sh
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/library_path.dsv
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_generator_c.so
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__rosidl_typesupport_fastrtps_c.h
+[0.685s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__rosidl_typesupport_fastrtps_c.h
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_fastrtps_c.so
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__traits.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__type_support.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__struct.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__struct.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__builder.hpp
+[0.686s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__type_support.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__builder.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__traits.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detection_array.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detection.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__rosidl_typesupport_fastrtps_cpp.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__rosidl_typesupport_fastrtps_cpp.hpp
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/dds_fastrtps
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.687s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__rosidl_typesupport_introspection_c.h
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__rosidl_typesupport_introspection_c.h
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__type_support.c
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__type_support.c
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_introspection_c.so
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_c.so
+[0.688s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__rosidl_typesupport_introspection_cpp.hpp
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__type_support.cpp
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection__rosidl_typesupport_introspection_cpp.hpp
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/include/robotnik_perception_msgs/robotnik_perception_msgs/msg/detail/detection_array__type_support.cpp
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_introspection_cpp.so
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_typesupport_cpp.so
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/pythonpath.sh
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/pythonpath.dsv
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs-1.0.0-py3.10.egg-info
+[0.689s] -- Installing: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[0.689s] -- Installing: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.689s] -- Installing: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.689s] -- Installing: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[0.689s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/_robotnik_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/__init__.py
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/_robotnik_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/_robotnik_perception_msgs_s.ep.rosidl_typesupport_c.c
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/librobotnik_perception_msgs__rosidl_generator_py.so
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg/_detection.py
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg/_detection_array.py
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg/_detection_s.c
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg/__init__.py
+[0.690s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg/_detection_array_s.c
+[0.718s] Listing '/home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs'...
+[0.718s] Listing '/home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/msg'...
+[0.721s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.721s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages/robotnik_perception_msgs/robotnik_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/lib/librobotnik_perception_msgs__rosidl_generator_py.so
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/msg/Detection.idl
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/msg/DetectionArray.idl
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/msg/Detection.msg
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/msg/DetectionArray.msg
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/ament_index/resource_index/package_run_dependencies/robotnik_perception_msgs
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/ament_index/resource_index/parent_prefix_path/robotnik_perception_msgs
+[0.722s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/ament_prefix_path.sh
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/ament_prefix_path.dsv
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/path.sh
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/environment/path.dsv
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/local_setup.bash
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/local_setup.sh
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/local_setup.zsh
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/local_setup.dsv
+[0.723s] -- Installing: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/package.dsv
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/ament_index/resource_index/packages/robotnik_perception_msgs
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_generator_cExport.cmake
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.723s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_generator_cppExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_cExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_cppExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_generator_pyExport.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/export_robotnik_perception_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/rosidl_cmake-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgsConfig.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/cmake/robotnik_perception_msgsConfig-version.cmake
+[0.724s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_perception_msgs/share/robotnik_perception_msgs/package.xml
+[0.726s] Invoked command in '/home/admin/ros2_ws/build/robotnik_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_perception_msgs

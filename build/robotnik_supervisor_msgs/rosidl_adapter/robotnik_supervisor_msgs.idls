@@ -1,0 +1,10 @@
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/DownStack.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/GetModuleList.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/GetStackList.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/GetStackLogs.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/GetStackStatus.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/RestartStack.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/StartModule.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/StartStack.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/StopModule.idl
+/home/admin/ros2_ws/build/robotnik_supervisor_msgs/rosidl_adapter/robotnik_supervisor_msgs:srv/StopStack.idl

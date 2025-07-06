@@ -1,0 +1,26 @@
+running egg_info
+creating ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info
+writing ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/PKG-INFO
+writing dependency_links to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/dependency_links.txt
+writing entry points to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/entry_points.txt
+writing requirements to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/requires.txt
+writing top-level names to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/top_level.txt
+writing manifest file '../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/SOURCES.txt'
+reading manifest file '../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/SOURCES.txt'
+writing manifest file '../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/admin/ros2_ws/install/aruco_marker_models_1/share
+creating /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1
+copying package.xml -> /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1
+creating /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/urdf
+copying urdf/aruco_marker.urdf.xacro -> /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/urdf
+creating /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/textures
+copying textures/ArucoMarker.png -> /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/textures
+creating /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/launch
+copying launch/spawn_marker.launch.py -> /home/admin/ros2_ws/install/aruco_marker_models_1/share/aruco_marker_models_1/launch
+running install_egg_info
+Copying ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info to /home/admin/ros2_ws/install/aruco_marker_models_1/lib/python3.10/site-packages/aruco_marker_models_1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/admin/ros2_ws/build/aruco_marker_models_1/install.log'

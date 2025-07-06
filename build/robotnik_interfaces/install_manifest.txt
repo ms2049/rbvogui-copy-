@@ -1,0 +1,15 @@
+/home/admin/ros2_ws/install/robotnik_interfaces/share/ament_index/resource_index/package_run_dependencies/robotnik_interfaces
+/home/admin/ros2_ws/install/robotnik_interfaces/share/ament_index/resource_index/parent_prefix_path/robotnik_interfaces
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/environment/ament_prefix_path.sh
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/environment/ament_prefix_path.dsv
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/environment/path.sh
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/environment/path.dsv
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/local_setup.bash
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/local_setup.sh
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/local_setup.zsh
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/local_setup.dsv
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/package.dsv
+/home/admin/ros2_ws/install/robotnik_interfaces/share/ament_index/resource_index/packages/robotnik_interfaces
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/cmake/robotnik_interfacesConfig.cmake
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/cmake/robotnik_interfacesConfig-version.cmake
+/home/admin/ros2_ws/install/robotnik_interfaces/share/robotnik_interfaces/package.xml

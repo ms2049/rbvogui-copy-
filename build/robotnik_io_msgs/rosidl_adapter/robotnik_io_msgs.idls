@@ -1,0 +1,11 @@
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:msg/AnalogIO.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:msg/DigitalIO.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:msg/InputsOutputs.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:msg/RegisterArray.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:msg/Register.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/GetRegisters.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/SetAnalogOutput.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/SetAnalogOutputArray.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/SetDigitalOutput.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/SetDigitalOutputArray.idl
+/home/admin/ros2_ws/build/robotnik_io_msgs/rosidl_adapter/robotnik_io_msgs:srv/SetRegisters.idl

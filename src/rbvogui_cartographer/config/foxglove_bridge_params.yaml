@@ -1,0 +1,48 @@
+foxglove_bridge:
+  ros__parameters:
+    port: 8765
+    address: "0.0.0.0"
+    tls: false
+    certfile: ""
+    keyfile: ""
+    
+    # Topic filtering to reduce data load
+    topic_whitelist: [
+      "/tf",
+      "/tf_static", 
+      "/map",
+      "/robot/front_laser/scan",
+      "/robot/joint_states",
+      "/robot/robotnik_base_controller/odom",
+      "/robot/front_rgbd_camera/color/image_raw",
+      "/robot/front_rgbd_camera/color/camera_info",
+      "/slam_toolbox/graph_visualization",
+      "/clicked_point",
+      "/initialpose",
+      "/move_base_simple/goal"
+    ]
+    
+    service_whitelist: [
+      "/slam_toolbox/.*"
+    ]
+    
+    parameter_whitelist: [
+      "/robot/.*",
+      "/slam_toolbox/.*"
+    ]
+    
+    client_topic_whitelist: [
+      "/clicked_point",
+      "/initialpose", 
+      "/move_base_simple/goal",
+      "/robot/robotnik_base_controller/cmd_vel"
+    ]
+    
+    # Buffer size settings
+    send_buffer_limit: 10000000  # 10MB
+    use_compression: true
+    
+    # Update rates to reduce data flow
+    include_hidden: false
+    min_qos_depth: 1
+    max_qos_depth: 10 

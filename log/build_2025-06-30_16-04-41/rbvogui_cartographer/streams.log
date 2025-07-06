@@ -1,0 +1,19 @@
+[0.571s] Invoking command in '/home/admin/ros2_ws/src/rbvogui_cartographer': PYTHONPATH=/home/admin/ros2_ws/build/rbvogui_cartographer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/ros2_ws/install/rbvogui_cartographer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rbvogui_cartographer build --build-base /home/admin/ros2_ws/build/rbvogui_cartographer/build install --record /home/admin/ros2_ws/build/rbvogui_cartographer/install.log --single-version-externally-managed install_data
+[0.748s] running egg_info
+[0.749s] writing ../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/PKG-INFO
+[0.749s] writing dependency_links to ../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/dependency_links.txt
+[0.749s] writing requirements to ../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/requires.txt
+[0.749s] writing top-level names to ../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/top_level.txt
+[0.750s] reading manifest file '../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/SOURCES.txt'
+[0.750s] writing manifest file '../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info/SOURCES.txt'
+[0.750s] running build
+[0.750s] running build_py
+[0.750s] running install
+[0.750s] running install_lib
+[0.751s] running install_data
+[0.751s] running install_egg_info
+[0.752s] removing '/home/admin/ros2_ws/install/rbvogui_cartographer/lib/python3.10/site-packages/rbvogui_cartographer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.752s] Copying ../../build/rbvogui_cartographer/rbvogui_cartographer.egg-info to /home/admin/ros2_ws/install/rbvogui_cartographer/lib/python3.10/site-packages/rbvogui_cartographer-0.0.0-py3.10.egg-info
+[0.752s] running install_scripts
+[0.800s] writing list of installed files to '/home/admin/ros2_ws/build/rbvogui_cartographer/install.log'
+[0.812s] Invoked command in '/home/admin/ros2_ws/src/rbvogui_cartographer' returned '0': PYTHONPATH=/home/admin/ros2_ws/build/rbvogui_cartographer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/ros2_ws/install/rbvogui_cartographer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rbvogui_cartographer build --build-base /home/admin/ros2_ws/build/rbvogui_cartographer/build install --record /home/admin/ros2_ws/build/rbvogui_cartographer/install.log --single-version-externally-managed install_data

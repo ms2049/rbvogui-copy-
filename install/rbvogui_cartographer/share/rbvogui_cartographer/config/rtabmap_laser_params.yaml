@@ -1,0 +1,19 @@
+rtabmap:
+  rtabmap:
+    queue_size: 50
+    subscribe_scan: true
+    subscribe_depth: false
+    subscribe_rgb: false
+
+    # Odometry parameters for 2D lidar (ICP)
+    Odom/Strategy: 1          # ICP
+    ICP/2D: true
+    Reg/Strategy: 1          # ICP registration
+    Grid/FromDepth: false
+    Grid/MaxSize: 500
+    Grid/CellSize: 0.05
+
+    # Generate 2D occupancy grid
+    Grid/3D: false
+    Grid/RayTracing: true
+    Grid/Global: true

@@ -1,0 +1,1 @@
+Invoking command in '/home/admin/ros2_ws/build/robotnik_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_perception_msgs -- -j20 -l20

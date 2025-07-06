@@ -1,0 +1,2 @@
+Invoking command in '/home/admin/ros2_ws/build/aruco_marker_models_1': /usr/bin/cmake --build /home/admin/ros2_ws/build/aruco_marker_models_1 -- -j20 -l20
+Invoked command in '/home/admin/ros2_ws/build/aruco_marker_models_1' returned '2': /usr/bin/cmake --build /home/admin/ros2_ws/build/aruco_marker_models_1 -- -j20 -l20

@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_navigation_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_io_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_controllers_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_common_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_common/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_battery_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_navigation_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_io_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_controllers_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_common_msgs/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_common/local/lib/python3.10/dist-packages",
+        "/home/admin/ros2_ws/install/robotnik_battery_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

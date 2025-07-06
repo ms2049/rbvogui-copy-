@@ -1,0 +1,7 @@
+digraph G {
+"robot_odom" -> "robot_base_footprint"[label=" Broadcaster: default_authority\nAverage rate: 2140000.0\nBuffer length: 0.0\nMost recent transform: 958.818\nOldest transform: 958.818\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1751385811.9679272"[ shape=plaintext ] ;
+}->"robot_odom";
+}

@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-677d8b0b59b474e57052.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "robotnik_navigation_msgs__py",
+					"jsonFile" : "directory-robotnik_navigation_msgs__py-2879e3c78527496677ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/admin/ros2_ws/build/robotnik_navigation_msgs/robotnik_navigation_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "robotnik_navigation_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_robotnik_navigation_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_robotnik_navigation_msgs_egg-d0f0415e92440e568bb5.json",
+					"name" : "ament_cmake_python_build_robotnik_navigation_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_robotnik_navigation_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_robotnik_navigation_msgs-79b2c38af7c892a39c91.json",
+					"name" : "ament_cmake_python_copy_robotnik_navigation_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs-462d4a11d2c58252b692.json",
+					"name" : "robotnik_navigation_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__cpp-5152f0232fefbf3889fe.json",
+					"name" : "robotnik_navigation_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "robotnik_navigation_msgs__py::@1f8119995d60e8ed7ccb",
+					"jsonFile" : "target-robotnik_navigation_msgs__py-64ce2d2c4c64279459a9.json",
+					"name" : "robotnik_navigation_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_generator_c-98350abd4ac8ccdc3db7.json",
+					"name" : "robotnik_navigation_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_generator_py-60dc4893e86e0d220fc7.json",
+					"name" : "robotnik_navigation_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_c-b99e8e1f2ed83dabaaf6.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_c__pyext-7ee71b5b03477e4e2a2f.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_cpp-2e5c4a8df125e1360470.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c-bef9ded486301592a094.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c__pyext-a153e72ec1b36bd4c4dc.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_fastrtps_cpp-6f007d022474d1a2bd0a.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_introspection_c-c80ab08087e0282fcad6.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_introspection_c__pyext-fdac0044274b1cc8289e.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs__rosidl_typesupport_introspection_cpp-5a145862857190ee1b94.json",
+					"name" : "robotnik_navigation_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotnik_navigation_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotnik_navigation_msgs_uninstall-17f5579b38ba3d5da376.json",
+					"name" : "robotnik_navigation_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a6af6aa8ec765ee766f6.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/admin/ros2_ws/build/robotnik_navigation_msgs",
+		"source" : "/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

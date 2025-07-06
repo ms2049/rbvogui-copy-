@@ -1,0 +1,9 @@
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/uninstall.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/robotnik_gazebo_ignition_uninstall.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/test.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/edit_cache.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/rebuild_cache.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/list_install_components.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/install.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/install/local.dir
+/home/admin/ros2_ws/build/robotnik_gazebo_ignition/CMakeFiles/install/strip.dir

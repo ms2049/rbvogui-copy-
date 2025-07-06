@@ -1,0 +1,4 @@
+Invoking command in '/home/admin/ros2_ws/build/aruco_marker_models_1': /usr/bin/cmake /home/admin/ros2_ws/aruco_marker_models_1 -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/aruco_marker_models_1
+Invoked command in '/home/admin/ros2_ws/build/aruco_marker_models_1' returned '0': /usr/bin/cmake /home/admin/ros2_ws/aruco_marker_models_1 -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/aruco_marker_models_1
+Invoking command in '/home/admin/ros2_ws/build/aruco_marker_models_1': /usr/bin/cmake --build /home/admin/ros2_ws/build/aruco_marker_models_1 -- -j20 -l20
+Invoked command in '/home/admin/ros2_ws/build/aruco_marker_models_1' returned '0': /usr/bin/cmake --build /home/admin/ros2_ws/build/aruco_marker_models_1 -- -j20 -l20

@@ -1,0 +1,360 @@
+[0.015s] Invoking command in '/home/admin/ros2_ws/build/robotnik_supervisor_msgs': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble LD_LIBRARY_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs/lib:/home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib:/home/admin/ros2_ws/install/robotnik_perception_msgs/lib:/home/admin/ros2_ws/install/robotnik_navigation_msgs/lib:/home/admin/ros2_ws/install/robotnik_io_msgs/lib:/home/admin/ros2_ws/install/robotnik_controllers_msgs/lib:/home/admin/ros2_ws/install/robotnik_battery_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_supervisor_msgs -- -j20 -l20
+[0.068s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_generator_c[0m
+[0.068s] [  0%] Built target robotnik_supervisor_msgs__cpp
+[0.087s] [  0%] Built target ament_cmake_python_copy_robotnik_supervisor_msgs
+[0.089s] [ 12%] Built target robotnik_supervisor_msgs__rosidl_generator_c
+[0.093s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_cpp[0m
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.098s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.115s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_introspection_c[0m
+[0.115s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.115s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_c[0m
+[0.132s] [ 46%] Built target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cpp
+[0.132s] [ 46%] Built target robotnik_supervisor_msgs__rosidl_typesupport_introspection_cpp
+[0.132s] [ 47%] Built target robotnik_supervisor_msgs__rosidl_typesupport_cpp
+[0.132s] [ 58%] Built target robotnik_supervisor_msgs__rosidl_typesupport_c
+[0.137s] [ 75%] Built target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_c
+[0.137s] [ 82%] Built target robotnik_supervisor_msgs__rosidl_typesupport_introspection_c
+[0.158s] [ 82%] Built target robotnik_supervisor_msgs
+[0.172s] [ 83%] Built target robotnik_supervisor_msgs__py
+[0.184s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_generator_py[0m
+[0.199s] [ 94%] Built target robotnik_supervisor_msgs__rosidl_generator_py
+[0.209s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_c__pyext[0m
+[0.209s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.210s] [35m[1mConsolidate compiler generated dependencies of target robotnik_supervisor_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.218s] [ 96%] Built target robotnik_supervisor_msgs__rosidl_typesupport_c__pyext
+[0.218s] [ 98%] Built target robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.220s] [100%] Built target robotnik_supervisor_msgs__rosidl_typesupport_introspection_c__pyext
+[0.319s] running egg_info
+[0.320s] writing robotnik_supervisor_msgs.egg-info/PKG-INFO
+[0.320s] writing dependency_links to robotnik_supervisor_msgs.egg-info/dependency_links.txt
+[0.320s] writing top-level names to robotnik_supervisor_msgs.egg-info/top_level.txt
+[0.321s] reading manifest file 'robotnik_supervisor_msgs.egg-info/SOURCES.txt'
+[0.322s] writing manifest file 'robotnik_supervisor_msgs.egg-info/SOURCES.txt'
+[0.347s] [100%] Built target ament_cmake_python_build_robotnik_supervisor_msgs_egg
+[0.350s] Invoked command in '/home/admin/ros2_ws/build/robotnik_supervisor_msgs' returned '0': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble LD_LIBRARY_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs/lib:/home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib:/home/admin/ros2_ws/install/robotnik_perception_msgs/lib:/home/admin/ros2_ws/install/robotnik_navigation_msgs/lib:/home/admin/ros2_ws/install/robotnik_io_msgs/lib:/home/admin/ros2_ws/install/robotnik_controllers_msgs/lib:/home/admin/ros2_ws/install/robotnik_battery_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_supervisor_msgs -- -j20 -l20
+[0.351s] Invoking command in '/home/admin/ros2_ws/build/robotnik_supervisor_msgs': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble LD_LIBRARY_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs/lib:/home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib:/home/admin/ros2_ws/install/robotnik_perception_msgs/lib:/home/admin/ros2_ws/install/robotnik_navigation_msgs/lib:/home/admin/ros2_ws/install/robotnik_io_msgs/lib:/home/admin/ros2_ws/install/robotnik_controllers_msgs/lib:/home/admin/ros2_ws/install/robotnik_battery_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_supervisor_msgs
+[0.362s] -- Install configuration: ""
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/ament_index/resource_index/rosidl_interfaces/robotnik_supervisor_msgs
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_logs.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__type_support.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__type_support.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__functions.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__struct.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__type_support.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__type_support.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__struct.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__struct.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__struct.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__struct.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__functions.c
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__functions.h
+[0.362s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__struct.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__functions.c
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__functions.c
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__struct.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__functions.c
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__struct.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__struct.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__struct.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__functions.c
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__functions.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__type_support.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/stop_module.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_module_list.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/stop_stack.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/start_stack.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/restart_stack.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/down_stack.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_list.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/start_module.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_status.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/library_path.sh
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/library_path.dsv
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_generator_c.so
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.363s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__rosidl_typesupport_fastrtps_c.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_fastrtps_c.so
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__type_support.hpp
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__struct.hpp
+[0.364s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__struct.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__type_support.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__traits.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__builder.hpp
+[0.365s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__type_support.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__builder.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__traits.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__builder.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__traits.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__traits.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/start_module.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/start_stack.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_logs.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_status.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/restart_stack.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/stop_stack.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/stop_module.hpp
+[0.366s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_module_list.hpp
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/get_stack_list.hpp
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/down_stack.hpp
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.367s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/dds_fastrtps
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__rosidl_typesupport_fastrtps_cpp.hpp
+[0.368s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__type_support.c
+[0.369s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__rosidl_typesupport_introspection_c.h
+[0.370s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__type_support.c
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__type_support.c
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__type_support.c
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__rosidl_typesupport_introspection_c.h
+[0.372s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__type_support.c
+[0.372s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__type_support.c
+[0.372s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__type_support.c
+[0.372s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__type_support.c
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__rosidl_typesupport_introspection_c.h
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__type_support.c
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__type_support.c
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__rosidl_typesupport_introspection_c.h
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_introspection_c.so
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_c.so
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs
+[0.373s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__type_support.cpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__rosidl_typesupport_introspection_cpp.hpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__rosidl_typesupport_introspection_cpp.hpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/down_stack__type_support.cpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_logs__type_support.cpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__type_support.cpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__rosidl_typesupport_introspection_cpp.hpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__rosidl_typesupport_introspection_cpp.hpp
+[0.374s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_list__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_module__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/restart_stack__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_module__rosidl_typesupport_introspection_cpp.hpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_stack_status__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/start_stack__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/stop_stack__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/include/robotnik_supervisor_msgs/robotnik_supervisor_msgs/srv/detail/get_module_list__type_support.cpp
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_introspection_cpp.so
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_typesupport_cpp.so
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/pythonpath.sh
+[0.375s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/pythonpath.dsv
+[0.376s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs-1.0.0-py3.10.egg-info
+[0.376s] -- Installing: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs-1.0.0-py3.10.egg-info/PKG-INFO
+[0.376s] -- Installing: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.376s] -- Installing: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.376s] -- Installing: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs-1.0.0-py3.10.egg-info/top_level.txt
+[0.376s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs
+[0.376s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/_robotnik_supervisor_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.376s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/_robotnik_supervisor_msgs_s.ep.rosidl_typesupport_c.c
+[0.376s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/__init__.py
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/librobotnik_supervisor_msgs__rosidl_generator_py.so
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_logs.py
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_stop_stack_s.c
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_start_module.py
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_stop_module_s.c
+[0.377s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_stop_module.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/__init__.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_down_stack_s.c
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_module_list_s.c
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_start_module_s.c
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_list.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_start_stack.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_down_stack.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_list_s.c
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_logs_s.c
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_module_list.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_stop_stack.py
+[0.378s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_restart_stack_s.c
+[0.379s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_status_s.c
+[0.379s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_get_stack_status.py
+[0.379s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_start_stack_s.c
+[0.379s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv/_restart_stack.py
+[0.379s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/_robotnik_supervisor_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.406s] Listing '/home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs'...
+[0.406s] Listing '/home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/srv'...
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/local/lib/python3.10/dist-packages/robotnik_supervisor_msgs/robotnik_supervisor_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib/librobotnik_supervisor_msgs__rosidl_generator_py.so
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/DownStack.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetModuleList.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackList.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackLogs.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackStatus.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/RestartStack.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartModule.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartStack.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopModule.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopStack.idl
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/DownStack.srv
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/DownStack_Request.msg
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/DownStack_Response.msg
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetModuleList.srv
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetModuleList_Request.msg
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetModuleList_Response.msg
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackList.srv
+[0.406s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackList_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackList_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackLogs.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackLogs_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackLogs_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackStatus.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackStatus_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/GetStackStatus_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/RestartStack.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/RestartStack_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/RestartStack_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartModule.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartModule_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartModule_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartStack.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartStack_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StartStack_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopModule.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopModule_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopModule_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopStack.srv
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopStack_Request.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/srv/StopStack_Response.msg
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/ament_index/resource_index/package_run_dependencies/robotnik_supervisor_msgs
+[0.407s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/ament_index/resource_index/parent_prefix_path/robotnik_supervisor_msgs
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/ament_prefix_path.sh
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/ament_prefix_path.dsv
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/path.sh
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/environment/path.dsv
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/local_setup.bash
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/local_setup.sh
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/local_setup.zsh
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/local_setup.dsv
+[0.408s] -- Installing: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/package.dsv
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/ament_index/resource_index/packages/robotnik_supervisor_msgs
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_generator_cExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_generator_cppExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_cExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_cppExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_generator_pyExport.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/export_robotnik_supervisor_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/rosidl_cmake-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.408s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.409s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgsConfig.cmake
+[0.409s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/cmake/robotnik_supervisor_msgsConfig-version.cmake
+[0.409s] -- Up-to-date: /home/admin/ros2_ws/install/robotnik_supervisor_msgs/share/robotnik_supervisor_msgs/package.xml
+[0.418s] Invoked command in '/home/admin/ros2_ws/build/robotnik_supervisor_msgs' returned '0': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble LD_LIBRARY_PATH=/home/admin/ros2_ws/install/robotnik_common_msgs/lib:/home/admin/ros2_ws/install/robotnik_supervisor_msgs/lib:/home/admin/ros2_ws/install/robotnik_perception_msgs/lib:/home/admin/ros2_ws/install/robotnik_navigation_msgs/lib:/home/admin/ros2_ws/install/robotnik_io_msgs/lib:/home/admin/ros2_ws/install/robotnik_controllers_msgs/lib:/home/admin/ros2_ws/install/robotnik_battery_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_supervisor_msgs

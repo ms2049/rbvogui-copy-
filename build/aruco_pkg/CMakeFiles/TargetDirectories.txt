@@ -1,0 +1,9 @@
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/uninstall.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/aruco_pkg_uninstall.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/test.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/edit_cache.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/rebuild_cache.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/list_install_components.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/install.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/install/local.dir
+/home/admin/ros2_ws/build/aruco_pkg/CMakeFiles/install/strip.dir

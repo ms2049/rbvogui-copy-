@@ -1,0 +1,70 @@
+[0.013s] Invoking command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake /home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/robotnik_gazebo_ignition
+[0.074s] -- The C compiler identification is GNU 11.4.0
+[0.122s] -- The CXX compiler identification is GNU 11.4.0
+[0.131s] -- Detecting C compiler ABI info
+[0.243s] -- Detecting C compiler ABI info - done
+[0.259s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.264s] -- Detecting C compile features
+[0.264s] -- Detecting C compile features - done
+[0.265s] -- Detecting CXX compiler ABI info
+[0.411s] -- Detecting CXX compiler ABI info - done
+[0.431s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.431s] -- Detecting CXX compile features
+[0.432s] -- Detecting CXX compile features - done
+[0.440s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.126s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.680s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.898s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.899s] -- Added test 'lint_cmake' to check CMake code style
+[1.905s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.907s] -- Added test 'xmllint' to check XML markup files
+[1.918s] -- Configuring done
+[1.937s] -- Generating done
+[1.943s] -- Build files have been written to: /home/admin/ros2_ws/build/robotnik_gazebo_ignition
+[1.963s] Invoked command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition' returned '0': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake /home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/robotnik_gazebo_ignition
+[1.964s] Invoking command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_gazebo_ignition -- -j20 -l20
+[2.055s] Invoked command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition' returned '0': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_gazebo_ignition -- -j20 -l20
+[2.056s] Invoking command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_gazebo_ignition
+[2.077s] -- Install configuration: ""
+[2.077s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//launch
+[2.077s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//launch/spawn_robot.launch.py
+[2.081s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//launch/spawn_world.launch.py
+[2.084s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config
+[2.084s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbsummit
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbsummit/rviz_config.rviz
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbsummit/bridge.yaml
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbsummit/rbsummit_controller_params.yaml
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbrobout
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbrobout/rviz_config.rviz
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbrobout/bridge.yaml
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbrobout/rbrobout_controller_params.yaml
+[2.085s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbkairos
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbkairos/rviz_config.rviz
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbkairos/rbkairos_controller_params.yaml
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbkairos/bridge.yaml
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbtheron
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbtheron/rbtheron_controller_params.yaml
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbtheron/rviz_config.rviz
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbtheron/bridge.yaml
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbvogui
+[2.086s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbvogui/rbvogui_controller_params.yaml
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbvogui/rviz_config.rviz
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//config/rbvogui/bridge.yaml
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//worlds
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition//worlds/demo.sdf.world
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/ament_index/resource_index/package_run_dependencies/robotnik_gazebo_ignition
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/ament_index/resource_index/parent_prefix_path/robotnik_gazebo_ignition
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/environment/ament_prefix_path.sh
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/environment/ament_prefix_path.dsv
+[2.087s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/environment/path.sh
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/environment/path.dsv
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/local_setup.bash
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/local_setup.sh
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/local_setup.zsh
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/local_setup.dsv
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/package.dsv
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/ament_index/resource_index/packages/robotnik_gazebo_ignition
+[2.088s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/cmake/robotnik_gazebo_ignitionConfig.cmake
+[2.095s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/cmake/robotnik_gazebo_ignitionConfig-version.cmake
+[2.095s] -- Installing: /home/admin/ros2_ws/install/robotnik_gazebo_ignition/share/robotnik_gazebo_ignition/package.xml
+[2.099s] Invoked command in '/home/admin/ros2_ws/build/robotnik_gazebo_ignition' returned '0': CMAKE_PREFIX_PATH=/home/admin/ros2_ws/install/robotnik_description:/home/admin/ros2_ws/install/robotnik_sensors:/home/admin/ros2_ws/install/robotnik_common:/home/admin/ros2_ws/install/robotnik_supervisor_msgs:/home/admin/ros2_ws/install/robotnik_gazebo_ignition:/home/admin/ros2_ws/install/robotnik_gazebo_classic:/home/admin/ros2_ws/install/robotnik_interfaces:/home/admin/ros2_ws/install/robotnik_perception_msgs:/home/admin/ros2_ws/install/robotnik_navigation_msgs:/home/admin/ros2_ws/install/robotnik_io_msgs:/home/admin/ros2_ws/install/robotnik_controllers_msgs:/home/admin/ros2_ws/install/robotnik_common_msgs:/home/admin/ros2_ws/install/robotnik_battery_msgs:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_gazebo_ignition

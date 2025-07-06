@@ -1,0 +1,3 @@
+[0mCMake Error: The source directory "/home/admin/ros2_ws/aruco_marker_models_1" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.[0m
+gmake: *** [Makefile:138: cmake_check_build_system] Error 1

@@ -1,0 +1,29 @@
+from launch import LaunchDescription
+from launch_ros.actions import Node
+
+def generate_launch_description():
+    return LaunchDescription([
+        Node(
+            package='robot_state_publisher',
+            executable='robot_state_publisher',
+            name='robot_state_publisher',
+            output='screen',
+            parameters=[{'use_sim_time': True}],
+            arguments=['/path/to/rbvogui.urdf']
+        ),
+        Node(
+            package='cartographer_ros',
+            executable='cartographer_node',
+            name='cartographer_node',
+            parameters=[{
+                'use_sim_time': True
+            }],
+            arguments=[
+                '-configuration_directory', '/path/to/config',
+                '-configuration_basename', 'rbvogui_lds_2d.lua'
+            ],
+            remappings=[
+                ('/robot/front_laser/scan', '/robot/front_laser/scan') 
+            ]
+        )
+    ])

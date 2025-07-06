@@ -1,0 +1,23 @@
+[0.219s] Invoking command in '/home/admin/ros2_ws/build/robotnik_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/robotnik_safety_msgs:/home/admin/ros2_ws/install/rbvogui_cartographer:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_perception_msgs -- -j20 -l20
+[0.262s] [  2%] Built target robotnik_perception_msgs__cpp
+[0.266s] [ 12%] Built target robotnik_perception_msgs__rosidl_generator_c
+[0.267s] [ 12%] Built target ament_cmake_python_copy_robotnik_perception_msgs
+[0.280s] [ 23%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[0.280s] [ 33%] Built target robotnik_perception_msgs__rosidl_typesupport_cpp
+[0.284s] [ 43%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_cpp
+[0.288s] [ 61%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_c
+[0.289s] [ 64%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c
+[0.296s] [ 74%] Built target robotnik_perception_msgs__rosidl_typesupport_c
+[0.304s] [ 74%] Built target robotnik_perception_msgs
+[0.328s] [ 76%] Built target robotnik_perception_msgs__py
+[0.342s] [ 84%] Built target robotnik_perception_msgs__rosidl_generator_py
+[0.357s] [ 89%] Built target robotnik_perception_msgs__rosidl_typesupport_c__pyext
+[0.357s] [ 94%] Built target robotnik_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[0.362s] [100%] Built target robotnik_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.442s] running egg_info
+[0.442s] writing robotnik_perception_msgs.egg-info/PKG-INFO
+[0.442s] writing dependency_links to robotnik_perception_msgs.egg-info/dependency_links.txt
+[0.443s] writing top-level names to robotnik_perception_msgs.egg-info/top_level.txt
+[0.444s] reading manifest file 'robotnik_perception_msgs.egg-info/SOURCES.txt'
+[0.444s] writing manifest file 'robotnik_perception_msgs.egg-info/SOURCES.txt'
+[0.464s] [100%] Built target ament_cmake_python_build_robotnik_perception_msgs_egg

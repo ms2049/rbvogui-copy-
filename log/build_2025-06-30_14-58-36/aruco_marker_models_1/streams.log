@@ -1,0 +1,18 @@
+[0.442s] Invoking command in '/home/admin/ros2_ws/aruco_marker_models_1': PYTHONPATH=/home/admin/ros2_ws/build/aruco_marker_models_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/ros2_ws/install/aruco_marker_models_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/aruco_marker_models_1 build --build-base /home/admin/ros2_ws/build/aruco_marker_models_1/build install --record /home/admin/ros2_ws/build/aruco_marker_models_1/install.log --single-version-externally-managed install_data
+[0.684s] running egg_info
+[0.684s] writing ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/PKG-INFO
+[0.684s] writing dependency_links to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/dependency_links.txt
+[0.685s] writing entry points to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/entry_points.txt
+[0.685s] writing requirements to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/requires.txt
+[0.685s] writing top-level names to ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/top_level.txt
+[0.685s] reading manifest file '../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/SOURCES.txt'
+[0.687s] writing manifest file '../build/aruco_marker_models_1/aruco_marker_models_1.egg-info/SOURCES.txt'
+[0.687s] running build
+[0.688s] running install
+[0.688s] running install_data
+[0.688s] running install_egg_info
+[0.695s] removing '/home/admin/ros2_ws/install/aruco_marker_models_1/lib/python3.10/site-packages/aruco_marker_models_1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.695s] Copying ../build/aruco_marker_models_1/aruco_marker_models_1.egg-info to /home/admin/ros2_ws/install/aruco_marker_models_1/lib/python3.10/site-packages/aruco_marker_models_1-0.0.0-py3.10.egg-info
+[0.695s] running install_scripts
+[0.718s] writing list of installed files to '/home/admin/ros2_ws/build/aruco_marker_models_1/install.log'
+[0.745s] Invoked command in '/home/admin/ros2_ws/aruco_marker_models_1' returned '0': PYTHONPATH=/home/admin/ros2_ws/build/aruco_marker_models_1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/ros2_ws/install/aruco_marker_models_1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/aruco_marker_models_1 build --build-base /home/admin/ros2_ws/build/aruco_marker_models_1/build install --record /home/admin/ros2_ws/build/aruco_marker_models_1/install.log --single-version-externally-managed install_data

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>aruco_marker_models_1</name>
+  <version>0.0.1</version>
+  <description>Aruco marker models for simulation</description>
+  <maintainer email="admin@alex-linux">alex-linux</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  
+  <!-- <depend>rclcpp</depend>
+  <depend>xacro</depend>
+  <depend>urdf</depend> -->
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

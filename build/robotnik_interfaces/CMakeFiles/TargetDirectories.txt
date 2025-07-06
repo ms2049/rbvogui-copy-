@@ -1,0 +1,8 @@
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/uninstall.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/robotnik_interfaces_uninstall.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/test.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/edit_cache.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/rebuild_cache.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/list_install_components.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/install.dir
+/home/admin/ros2_ws/build/robotnik_interfaces/CMakeFiles/install/local.dir
