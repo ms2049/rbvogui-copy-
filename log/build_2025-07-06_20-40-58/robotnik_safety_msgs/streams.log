@@ -1,0 +1,51 @@
+[0.012s] Invoking command in '/home/admin/ros2_ws/build/robotnik_safety_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake /home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/robotnik_safety_msgs
+[0.054s] -- The C compiler identification is GNU 11.4.0
+[0.105s] -- The CXX compiler identification is GNU 11.4.0
+[0.112s] -- Detecting C compiler ABI info
+[0.176s] -- Detecting C compiler ABI info - done
+[0.185s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.186s] -- Detecting C compile features
+[0.186s] -- Detecting C compile features - done
+[0.190s] -- Detecting CXX compiler ABI info
+[0.265s] -- Detecting CXX compiler ABI info - done
+[0.275s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.276s] -- Detecting CXX compile features
+[0.277s] -- Detecting CXX compile features - done
+[0.280s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.422s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.531s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.563s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.568s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.575s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.585s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.599s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.613s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.622s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.705s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.707s] -- Added test 'lint_cmake' to check CMake code style
+[0.708s] -- Added test 'xmllint' to check XML markup files
+[0.710s] -- Configuring done
+[0.714s] -- Generating done
+[0.717s] -- Build files have been written to: /home/admin/ros2_ws/build/robotnik_safety_msgs
+[0.729s] Invoked command in '/home/admin/ros2_ws/build/robotnik_safety_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake /home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs -DCMAKE_INSTALL_PREFIX=/home/admin/ros2_ws/install/robotnik_safety_msgs
+[0.731s] Invoking command in '/home/admin/ros2_ws/build/robotnik_safety_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_safety_msgs -- -j20 -l20
+[0.772s] Invoked command in '/home/admin/ros2_ws/build/robotnik_safety_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake --build /home/admin/ros2_ws/build/robotnik_safety_msgs -- -j20 -l20
+[0.774s] Invoking command in '/home/admin/ros2_ws/build/robotnik_safety_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_safety_msgs
+[0.783s] -- Install configuration: ""
+[0.783s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/ament_index/resource_index/package_run_dependencies/robotnik_safety_msgs
+[0.783s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/ament_index/resource_index/parent_prefix_path/robotnik_safety_msgs
+[0.783s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/environment/ament_prefix_path.sh
+[0.783s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/environment/ament_prefix_path.dsv
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/environment/path.sh
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/environment/path.dsv
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/local_setup.bash
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/local_setup.sh
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/local_setup.zsh
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/local_setup.dsv
+[0.784s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/package.dsv
+[0.785s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/ament_index/resource_index/packages/robotnik_safety_msgs
+[0.785s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.785s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/cmake/robotnik_safety_msgsConfig.cmake
+[0.785s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/cmake/robotnik_safety_msgsConfig-version.cmake
+[0.786s] -- Installing: /home/admin/ros2_ws/install/robotnik_safety_msgs/share/robotnik_safety_msgs/package.xml
+[0.799s] Invoked command in '/home/admin/ros2_ws/build/robotnik_safety_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/admin/ros2_ws/install/custom_gz:/opt/ros/humble /usr/bin/cmake --install /home/admin/ros2_ws/build/robotnik_safety_msgs

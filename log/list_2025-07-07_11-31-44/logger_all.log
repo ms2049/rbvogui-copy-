@@ -1,0 +1,270 @@
+[0.065s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/admin/ros2_ws']
+[0.065s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/admin/ros2_ws'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x757d2b153880>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x757d2b152ad0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x757d2b152ad0>>)
+[0.178s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.178s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.178s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.178s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.179s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.179s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/admin/ros2_ws'
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['ignore', 'ignore_ament_install']
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'ignore'
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'ignore_ament_install'
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['colcon_pkg']
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'colcon_pkg'
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['colcon_meta']
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'colcon_meta'
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['ros']
+[0.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'ros'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['cmake', 'python']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'cmake'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'python'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extensions ['python_setup_py']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws) by extension 'python_setup_py'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/build) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/build) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/build) ignored
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/install) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/install) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/install) ignored
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/log) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/log) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/log) ignored
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['ignore', 'ignore_ament_install']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'ignore'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'ignore_ament_install'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['colcon_pkg']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'colcon_pkg'
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['colcon_meta']
+[0.186s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'colcon_meta'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['ros']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'ros'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['cmake', 'python']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'cmake'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'python'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extensions ['python_setup_py']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src) by extension 'python_setup_py'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['ignore', 'ignore_ament_install']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'ignore'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'ignore_ament_install'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['colcon_pkg']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'colcon_pkg'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['colcon_meta']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'colcon_meta'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['ros']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'ros'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['cmake', 'python']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'cmake'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'python'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extensions ['python_setup_py']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common) by extension 'python_setup_py'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extensions ['ignore', 'ignore_ament_install']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extension 'ignore'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extension 'ignore_ament_install'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extensions ['colcon_pkg']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extension 'colcon_pkg'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extensions ['colcon_meta']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extension 'colcon_meta'
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extensions ['ros']
+[0.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_common/robotnik_common) by extension 'ros'
+[0.189s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_common/robotnik_common' with type 'ros.ament_cmake' and name 'robotnik_common'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extensions ['ignore', 'ignore_ament_install']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extension 'ignore'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extension 'ignore_ament_install'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extensions ['colcon_pkg']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extension 'colcon_pkg'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extensions ['colcon_meta']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extension 'colcon_meta'
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extensions ['ros']
+[0.189s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_description) by extension 'ros'
+[0.190s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_description' with type 'ros.ament_cmake' and name 'robotnik_description'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['ignore', 'ignore_ament_install']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'ignore'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'ignore_ament_install'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['colcon_pkg']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'colcon_pkg'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['colcon_meta']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'colcon_meta'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['ros']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'ros'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['cmake', 'python']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'cmake'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'python'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extensions ['python_setup_py']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces) by extension 'python_setup_py'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extension 'ignore'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extension 'ignore_ament_install'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extensions ['colcon_pkg']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extension 'colcon_pkg'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extensions ['colcon_meta']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extension 'colcon_meta'
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extensions ['ros']
+[0.190s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs) by extension 'ros'
+[0.191s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_battery_msgs' with type 'ros.ament_cmake' and name 'robotnik_battery_msgs'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extension 'ignore'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extension 'ignore_ament_install'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extensions ['colcon_pkg']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extension 'colcon_pkg'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extensions ['colcon_meta']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extension 'colcon_meta'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extensions ['ros']
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs) by extension 'ros'
+[0.191s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_common_msgs' with type 'ros.ament_cmake' and name 'robotnik_common_msgs'
+[0.191s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extension 'ignore'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extension 'ignore_ament_install'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extensions ['colcon_pkg']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extension 'colcon_pkg'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extensions ['colcon_meta']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extension 'colcon_meta'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extensions ['ros']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs) by extension 'ros'
+[0.192s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_controllers_msgs' with type 'ros.ament_cmake' and name 'robotnik_controllers_msgs'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extensions ['ignore', 'ignore_ament_install']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extension 'ignore'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extension 'ignore_ament_install'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extensions ['colcon_pkg']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extension 'colcon_pkg'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extensions ['colcon_meta']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extension 'colcon_meta'
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extensions ['ros']
+[0.192s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces) by extension 'ros'
+[0.193s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_interfaces' with type 'ros.ament_cmake' and name 'robotnik_interfaces'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extension 'ignore'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extension 'ignore_ament_install'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extensions ['colcon_pkg']
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extension 'colcon_pkg'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extensions ['colcon_meta']
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extension 'colcon_meta'
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extensions ['ros']
+[0.193s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs) by extension 'ros'
+[0.193s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_io_msgs' with type 'ros.ament_cmake' and name 'robotnik_io_msgs'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extension 'ignore'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extension 'ignore_ament_install'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extensions ['colcon_pkg']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extension 'colcon_pkg'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extensions ['colcon_meta']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extension 'colcon_meta'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extensions ['ros']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs) by extension 'ros'
+[0.194s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_navigation_msgs' with type 'ros.ament_cmake' and name 'robotnik_navigation_msgs'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extension 'ignore'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extension 'ignore_ament_install'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extensions ['colcon_pkg']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extension 'colcon_pkg'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extensions ['colcon_meta']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extension 'colcon_meta'
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extensions ['ros']
+[0.194s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs) by extension 'ros'
+[0.195s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_perception_msgs' with type 'ros.ament_cmake' and name 'robotnik_perception_msgs'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extension 'ignore'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extension 'ignore_ament_install'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extensions ['colcon_pkg']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extension 'colcon_pkg'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extensions ['colcon_meta']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extension 'colcon_meta'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extensions ['ros']
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs) by extension 'ros'
+[0.195s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_safety_msgs' with type 'ros.ament_cmake' and name 'robotnik_safety_msgs'
+[0.195s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extension 'colcon_meta'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extensions ['ros']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs) by extension 'ros'
+[0.196s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_interfaces/robotnik_supervisor_msgs' with type 'ros.ament_cmake' and name 'robotnik_supervisor_msgs'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['ignore', 'ignore_ament_install']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'ignore'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'ignore_ament_install'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['colcon_pkg']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'colcon_pkg'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['colcon_meta']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'colcon_meta'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['ros']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'ros'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['cmake', 'python']
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'cmake'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'python'
+[0.196s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extensions ['python_setup_py']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors) by extension 'python_setup_py'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extensions ['ignore', 'ignore_ament_install']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extension 'ignore'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extension 'ignore_ament_install'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extensions ['colcon_pkg']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extension 'colcon_pkg'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extensions ['colcon_meta']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extension 'colcon_meta'
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extensions ['ros']
+[0.197s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors) by extension 'ros'
+[0.198s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_sensors/robotnik_sensors' with type 'ros.ament_cmake' and name 'robotnik_sensors'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['ignore', 'ignore_ament_install']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'ignore'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'ignore_ament_install'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['colcon_pkg']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'colcon_pkg'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['colcon_meta']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'colcon_meta'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['ros']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'ros'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['cmake', 'python']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'cmake'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'python'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extensions ['python_setup_py']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation) by extension 'python_setup_py'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['ignore', 'ignore_ament_install']
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'ignore'
+[0.198s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'ignore_ament_install'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['colcon_pkg']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'colcon_pkg'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['colcon_meta']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'colcon_meta'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['ros']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'ros'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['cmake', 'python']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'cmake'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'python'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extensions ['python_setup_py']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/debs) by extension 'python_setup_py'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['ignore', 'ignore_ament_install']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'ignore'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'ignore_ament_install'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['colcon_pkg']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'colcon_pkg'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['colcon_meta']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'colcon_meta'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['ros']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'ros'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['cmake', 'python']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'cmake'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'python'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extensions ['python_setup_py']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/img) by extension 'python_setup_py'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extensions ['ignore', 'ignore_ament_install']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extension 'ignore'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extension 'ignore_ament_install'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extensions ['colcon_pkg']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extension 'colcon_pkg'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extensions ['colcon_meta']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extension 'colcon_meta'
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extensions ['ros']
+[0.199s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic) by extension 'ros'
+[0.200s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_classic' with type 'ros.ament_cmake' and name 'robotnik_gazebo_classic'
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extensions ['ignore', 'ignore_ament_install']
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extension 'ignore'
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extension 'ignore_ament_install'
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extensions ['colcon_pkg']
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extension 'colcon_pkg'
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extensions ['colcon_meta']
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extension 'colcon_meta'
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extensions ['ros']
+[0.200s] Level 1:colcon.colcon_core.package_identification:_identify(/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition) by extension 'ros'
+[0.200s] DEBUG:colcon.colcon_core.package_identification:Package '/home/admin/ros2_ws/src/robotnik_simulation/robotnik_gazebo_ignition' with type 'ros.ament_cmake' and name 'robotnik_gazebo_ignition'
+[0.200s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
